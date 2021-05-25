@@ -1,0 +1,14 @@
+name: "Rahul Kale"
+title: "rvk"
+description: |
+    Here is my personal website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  postcards::trestles
+theme: postcards.css

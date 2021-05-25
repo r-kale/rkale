@@ -1,0 +1,40 @@
+---
+title: "Rahul Kale"
+image: "rahulkale.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/rahul-kale-723a0720"
+  - label: Twitter
+    url: "https://twitter.com/rahulvilaskale"
+  - label: GitHub
+    url: "https://github.com/r-kale"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+Supply Chain Professional with cross domain experience of over 17 years with passion for leveraging technology to gain business edge. Successfully established raw material supply chain at multiple greenfield facilities that drove customer and product base expansion. Demonstrated global leadership in complex end to end supply chain/trade flow management roles. 
+
+A Leader with deep analytics and automation skill set, capable of automating complex global supply chains to deliver differentiating speed, value and cost efficiency.
+
+Leading Fulfillment Planning for India Factories driving end to end planning by building alliance with senior leadership of Operations, Finance and Marketing.
+
+Actively guides a diverse team on forecasting and satisfying demand through factory operation plans within bounds of constraint. Holds responsibility of optimizing the product inventory and own product inventory assets.
+
+## Education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
